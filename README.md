@@ -3,9 +3,13 @@
 
 - 🔭 I’m currently working on **Nflower-flowra e-commerce web**
 
+- 🌱 I’m currently learning **Java, Framework, NodeJs, ReactJs, Python**
+
 - 💬 Ask me about **react, php, sql, css ,JS**
 
 - 📫 How to reach me **dakshinanipun2003@gmail.com**
+
+- ⚡ Fun fact **Call me as Dakshi..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
