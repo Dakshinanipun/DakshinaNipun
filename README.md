@@ -31,7 +31,3 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=default" alt="YOUR_GITHUB_USERNAME" width="48%" />
-</p>
