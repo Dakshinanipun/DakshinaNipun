@@ -31,3 +31,15 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
 
+
+
+<div align="center">
+
+| GitHub Stats | GitHub Streak |
+|:---:|:---:|
+| ![Dakshina's GitHub Stats](https://github-stats-extended.vercel.app/api?username=DakshinaNipun&show_icons=true&theme=tokyonight) | ![Dakshina's GitHub Streak](https://streak-stats.demolab.com/?user=DakshinaNipun&theme=tokyonight) |
+
+</div>
+
+
+
